@@ -194,8 +194,9 @@ nav {
   transition: 0.5s;
 }
 
-.card a {
-  color: #000;
+.card a,
+.modal a {
+  color: #344563;
 }
 
 .card:hover {
