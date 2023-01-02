@@ -24,7 +24,7 @@ navItems.forEach((nav) => {
 
 const portfolio = [
   {
-    cardClass: 'works-card card1',
+    cardClass: 'works-card',
     cardTitle: 'Crypto Market App',
     cardImage: 'assets/portfolio/cryptomarket-screenshot.png',
     company: 'Microverse',
@@ -42,7 +42,7 @@ const portfolio = [
     modalSourceLink: 'https://github.com/karayamanemre/crypto-market-app',
   },
   {
-    cardClass: 'works-card card2',
+    cardClass: 'works-card',
         cardTitle: 'To Do List',
     cardImage: 'assets/portfolio/todolist-screenshot.png',
     company: 'Microverse',
@@ -59,8 +59,26 @@ const portfolio = [
     modalLiveLink: 'https://karayamanemre.github.io/to-do-list/dist/',
     modalSourceLink: 'https://github.com/karayamanemre/to-do-list',
   },
+    {
+    cardClass: 'works-card',
+    cardTitle: 'Frogger Leaderboard',
+    cardImage: 'assets/portfolio/frogger-screenshot.png',
+    company: 'Microverse',
+    job: 'Front-End',
+    year: '2022',
+    cardInfo: 'A web application that allows you and your friends to submit and save your <a href="https://froggerclassic.appspot.com/" target="_blank">Frogger</a> scores.',
+    technologies: ['html', 'css', 'javascript', "webpack"],
+    buttonText: 'See More',
+    modalInfo: 'A web application that allows you and your friends to submit and save your <a href="https://froggerclassic.appspot.com/" target="_blank">Frogger</a> scores. With a "Perfect combination of Mountain Dew and mozzarella," it is possible to achieve a high score.',
+    modalSeeButtonText: 'See Live',
+    modalSeeButtonIcon: '',
+    modalSourceButtonText: 'See Source',
+    modalSourceButtonIcon: '',
+    modalLiveLink: 'https://karayamanemre.github.io/leaderboard/dist/',
+    modalSourceLink: 'https://github.com/karayamanemre/leaderboard',
+  },
   {
-    cardClass: 'works-card card3',
+    cardClass: 'works-card',
     cardTitle: 'Kanban Board',
     cardImage: 'assets/portfolio/kanban-screenshot.png',
     company: 'Freelance',
@@ -78,7 +96,7 @@ const portfolio = [
     modalSourceLink: 'https://github.com/karayamanemre/kanban-board',
   },
   {
-    cardClass: 'works-card card4',
+    cardClass: 'works-card',
     cardTitle: 'Weather App',
     cardImage: 'assets/portfolio/weather-screenshot.png',
     company: 'Freelance',
@@ -96,7 +114,7 @@ const portfolio = [
     modalSourceLink: 'https://github.com/karayamanemre/weather-app',
   },
   {
-    cardClass: 'works-card card5',
+    cardClass: 'works-card',
     cardTitle: 'Kitaplardan Anlamayan Adam',
     cardImage: 'assets/portfolio/kitap-screenshot.png',
     company: 'Freelance',
@@ -113,8 +131,8 @@ const portfolio = [
     modalLiveLink: 'https://kitaplardananlamayanadam.com',
     modalSourceLink: 'https://kitaplardananlamayanadam.com',
   },
-    {
-    cardClass: 'works-card card6',
+  {
+    cardClass: 'works-card',
     cardTitle: 'Bookmark Page',
     cardImage: 'assets/portfolio/bookmark-screenshot.png',
     company: 'Freelance',
