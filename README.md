@@ -8,12 +8,10 @@
 
 # Live Preview
 
-https://karayamanemre.github.io/emre-portfolio/
+https://karayamanemre.github.io/
 
 # Prerequisites
-   - Please install git in your computer.
-   - Also install a code editor.
-   - A web browser to view the output.
+   - Please install git and the code editor of your choice on your computer.
    
 # Setup
    - To clone my repository run this command `git clone https://github.com/karayamanemre/emre-portfolio.git`  
@@ -32,13 +30,6 @@ https://karayamanemre.github.io/emre-portfolio/
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the issues page.
-
-# Acknowledgments
-
-[@Samuellekpor](https://github.com/Samuellekpor)
-[@UsirusenIkon](https://github.com/UsirusenIkon)
-[@Daron976](https://github.com/Daron976)
-[@lorenzoworx](https://github.com/lorenzoworx)
 
 # Show your support
 
