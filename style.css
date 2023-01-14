@@ -344,8 +344,7 @@ nav {
 
 .modal-img {
   max-width: 90%;
-  height: auto;
-  max-height: 500px;
+  max-height: 200px;
 }
 
 .modal-info {
